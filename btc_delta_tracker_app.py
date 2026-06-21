@@ -480,7 +480,7 @@ def _start_workers(s):
 
 
 # ─── UI ────────────────────────────────────────────────────
-st.set_page_config(page_title="BTC Delta Tracker", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Am cea mai faina iubita", page_icon="📊", layout="wide")
 
 CSS = """
 <style>
