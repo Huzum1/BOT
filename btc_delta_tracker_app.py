@@ -563,7 +563,7 @@ def render(s):
 
     st.markdown(
         "<div style='display:flex;justify-content:space-between;align-items:center;'>"
-        "<div style='font-size:22px;font-weight:800;'>📊 BTC Delta Tracker "
+        "<div style='font-size:22px;font-weight:800;'>📊 Am cea mai faina iubita "
         "<span class='sub'>Binance volum + order book · Polymarket oracle</span></div>"
         f"<div class='pill'>Runda #{snap['rn']}</div></div>",
         unsafe_allow_html=True,
