@@ -480,7 +480,7 @@ def _start_workers(s):
 
 
 # ─── UI ────────────────────────────────────────────────────
-st.set_page_config(page_title="Am cea mai faina iubita", page_icon="📊", layout="wide")
+st.set_page_config(page_title="BOT TRADER", page_icon="📊", layout="wide")
 
 CSS = """
 <style>
@@ -563,7 +563,7 @@ def render(s):
 
     st.markdown(
         "<div style='display:flex;justify-content:space-between;align-items:center;'>"
-        "<div style='font-size:22px;font-weight:800;'>📊 Am cea mai faina iubita "
+        "<div style='font-size:22px;font-weight:800;'>📊 BOT TRADER "
         "<span class='sub'>Binance volum + order book · Polymarket oracle</span></div>"
         f"<div class='pill'>Runda #{snap['rn']}</div></div>",
         unsafe_allow_html=True,
